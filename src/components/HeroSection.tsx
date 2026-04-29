@@ -61,9 +61,7 @@ export default function HeroSection() {
             >
               <div className="flex items-center gap-3 mb-4">
                 <div className="h-1 w-12 bg-amber-500" />
-                <span className="text-amber-400 text-sm font-medium uppercase tracking-widest">
-                  С 2001 года
-                </span>
+                <span className="text-amber-400 text-sm font-medium uppercase tracking-widest"></span>
               </div>
               <h1 className="text-4xl font-bold text-white md:text-5xl lg:text-6xl leading-tight">ООО ТД Кислотоупор</h1>
               <p className="mt-4 text-lg font-light text-white/70 md:text-xl max-w-lg">Производство кислотоупорной продкуции для промышленности. Сертифицированная продукция — поставки по России и на экспорт.</p>
