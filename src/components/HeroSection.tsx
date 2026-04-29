@@ -98,16 +98,16 @@ export default function HeroSection() {
               )}
             >
               <a
-                href="tel:+7"
+                href="tel:+79605985020"
                 className="inline-flex items-center gap-2 bg-amber-500 hover:bg-amber-400 text-black font-semibold px-6 py-3 rounded transition-colors"
               >
-                Связаться с нами
+                +7 (960) 598-50-20
               </a>
               <a
-                href="mailto:info@stroykeramika.ru"
+                href="mailto:tdkiclotoupor@mail.ru"
                 className="inline-flex items-center gap-2 border border-white/30 hover:border-white/60 text-white px-6 py-3 rounded transition-colors"
               >
-                Написать на e-mail
+                tdkiclotoupor@mail.ru
               </a>
             </div>
 
