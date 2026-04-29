@@ -2,9 +2,9 @@ import { useEffect, useState } from 'react';
 import { cn } from '@/lib/utils';
 
 const images = [
-  'https://cdn.poehali.dev/projects/31c74743-67b1-431a-93f3-84668bf51177/files/f05ca862-e7a1-461f-b929-30accdebc190.jpg',
-  'https://cdn.poehali.dev/projects/31c74743-67b1-431a-93f3-84668bf51177/files/5c2a7faf-a87a-4baa-912b-4a7eff23630c.jpg',
-  'https://cdn.poehali.dev/projects/31c74743-67b1-431a-93f3-84668bf51177/files/bc81a1b3-8148-41ef-a429-b343e4331fab.jpg',
+  'https://cdn.poehali.dev/projects/31c74743-67b1-431a-93f3-84668bf51177/files/e08a31d6-ce0b-45f4-8715-3fc7ec6ec832.jpg',
+  'https://cdn.poehali.dev/projects/31c74743-67b1-431a-93f3-84668bf51177/files/1cfc4250-841d-421e-b2d8-713bae207453.jpg',
+  'https://cdn.poehali.dev/projects/31c74743-67b1-431a-93f3-84668bf51177/files/ae4ccc6c-a1fe-4e2f-9414-5698ff90d66b.jpg',
 ];
 
 const products = [
