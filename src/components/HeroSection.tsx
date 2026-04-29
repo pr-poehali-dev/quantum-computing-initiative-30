@@ -65,13 +65,8 @@ export default function HeroSection() {
                   С 2001 года
                 </span>
               </div>
-              <h1 className="text-4xl font-bold text-white md:text-5xl lg:text-6xl leading-tight">
-                Завод<br />
-                <span className="text-amber-400">«Стройкерамика»</span>
-              </h1>
-              <p className="mt-4 text-lg font-light text-white/70 md:text-xl max-w-lg">
-                Производство кислотоупорной керамики для промышленности. Сертифицированная продукция — поставки по России и на экспорт.
-              </p>
+              <h1 className="text-4xl font-bold text-white md:text-5xl lg:text-6xl leading-tight">ООО ТД Кислотоупор</h1>
+              <p className="mt-4 text-lg font-light text-white/70 md:text-xl max-w-lg">Производство кислотоупорной продкуции для промышленности. Сертифицированная продукция — поставки по России и на экспорт.</p>
             </div>
 
             <div
